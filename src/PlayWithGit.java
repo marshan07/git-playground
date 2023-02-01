@@ -15,6 +15,7 @@ public class PlayWithGit {
 
 		System.out.println(addTwoNumbers(22, 0));
 		printNumbers(12);
+		printNumbers(10);
 	}
 
 }
